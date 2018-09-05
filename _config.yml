@@ -9,6 +9,7 @@ url: "https://mussles.github.io/" # the base hostname & protocol for your site, 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Projects', link: '/projects'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
